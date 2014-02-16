@@ -1,3 +1,5 @@
 Nick Shephard's CPTS 223 Project 3 - Dictionary Hash Table.
 
+Uses a hash table to compare two input files (to compare source with input dictionary to check validity of words).
+
 To run, simply open solution and run without debugging (ctrl+f5). Thanks!
