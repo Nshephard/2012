@@ -1,0 +1,11 @@
+Nick Shephard's Programming Assignment 2 for CPTS 223 Spring 2011.
+
+Creates a console display of BST based on input files.
+
+To run simply open solution and run without debugging (ctrl+f5).
+NOTE: 2 current input files. The current loaded input file is "input.txt" which contains the
+exact order and information supplied in the example (assignment handout). The "input2.txt"
+contains test data for larger elements/trees/number of trees to test code. If you wish to
+change input files, just type the file you want to read from in the ifstream line located
+at the beginning of the main.cpp file. Thanks!
+
