@@ -1,6 +1,6 @@
 Hi! Nick Shephard's project 4 for CPTS 223 Spring 2011. 
 
-I wasn't able to completely finish this assignment.
+
 I have completed the random maze generation as well as the generating a maze from a file. I made a disjoint set
 class of rooms (another sub class), and because i didn't use ints had difficulting implementing the DFS / BFS and was unable
 to complete that, but it is commented out within the maze.h header and functions if you wish to check my progress on these searches. Thanks.
